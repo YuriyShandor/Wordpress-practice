@@ -1,0 +1,42 @@
+@font-face {
+    font-family: 'FuturaPT-Bold';
+    src: url('fonts/FuturaPT-Bold.eot');
+    src: url('fonts/FuturaPT-Bold.eot?#iefix') format('embedded-opentype'),
+         url('fonts/FuturaPT-Bold.woff') format('woff'),
+         url('fonts/FuturaPT-Bold.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FuturaPT-Book';
+    src: url('fonts/FuturaPT-Book.eot');
+    src: url('fonts/FuturaPT-Book.eot?#iefix') format('embedded-opentype'),
+         url('fonts/FuturaPT-Book.woff') format('woff'),
+         url('fonts/FuturaPT-Book.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+@font-face {
+    font-family: 'FuturaPT-Demi';
+    src: url('fonts/FuturaPT-Demi.eot');
+    src: url('fonts/FuturaPT-Demi.eot?#iefix') format('embedded-opentype'),
+         url('fonts/FuturaPT-Demi.woff') format('woff'),
+         url('fonts/FuturaPT-Demi.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+// colors
+
+// $fbold: 16px 'FuturaPT-Bold', sans-serif;
+
+$fbold: 18px 'FuturaPT-Bold', sans-serif;
+$fbook: 18px 'FuturaPT-Book', sans-serif;
+$fdemi: 18px 'FuturaPT-Demi', sans-serif;
+
+$color1: #263971;
+$color2: #ffffff;
+$color3: #04e2e2;
+$color4: #2f439f;
